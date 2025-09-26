@@ -4,3 +4,7 @@ console.log(getsqure(3))
 
 const half = (x) => x/2;
 console.log(half(4))
+
+// annoynemus function
+
+// document.getElementById('').addEventListener('click',())
