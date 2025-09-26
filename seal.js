@@ -9,7 +9,7 @@ const employee = {
 // delete employee.designation
 // delete employee.salary
 
-Object.freeze(employee)
+Object.seal(employee)
 
 employee.salary = employee.salary + 2000;
 employee.location = "khulna";
