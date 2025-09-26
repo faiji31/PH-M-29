@@ -1,2 +1,1 @@
-console.log(first)
-// console.log(second)
+const values = Object.values(employee)
