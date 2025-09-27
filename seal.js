@@ -15,3 +15,5 @@ employee.salary = employee.salary + 2000;
 employee.location = "khulna";
 employee.university = 'iub';
 console.log(employee)
+
+// Seal Modify krte dibe but delete korte dibe nh

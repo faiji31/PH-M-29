@@ -15,3 +15,6 @@ employee.salary = employee.salary + 2000;
 employee.location = "khulna";
 employee.university = 'iub';
 console.log(employee)
+
+
+// Freeze Hoise Modify krte dibe nh and Delete krte dibe nh
